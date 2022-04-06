@@ -1,10 +1,10 @@
 {
-    "name": "uikit",
-    "title": "UIkit",
-    "description": "UIkit is a lightweight and modular front-end framework for developing fast and powerful web interfaces.",
+    "name": "rpkit",
+    "title": "RPkit",
+    "description": "RPkit是一个轻量级的模块化前端框架，用于开发快速而强大的web界面。",
     "version": "3.13.7",
-    "main": "dist/js/uikit.js",
-    "style": "dist/css/uikit.css",
+    "main": "dist/js/rpkit.js",
+    "style": "dist/css/rpkit.css",
     "sideEffects": [
         "*.css",
         "./src/js/*.js",
@@ -26,11 +26,11 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/uikit/uikit.git"
+        "url": "git+https://github.com/dsqdata/rpkit-dev.git"
     },
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/uikit/uikit/issues"
+        "url": "https://github.com/dsqdata/rpkit-dev/issues"
     },
     "homepage": "https://rp.dsqhost.com",
     "devDependencies": {

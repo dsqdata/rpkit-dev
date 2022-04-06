@@ -1,12 +1,12 @@
 {
-    "name": "rpkit/rpkit",
+    "name": "dsqdata/rpkit",
     "type": "library",
     "description": "RPkit是一个轻量级的模块化前端框架，用于开发快速而强大的web界面。",
     "keywords": [],
     "homepage": "https://rp.dsqhost.com/",
     "authors": [],
     "support": {
-        "issues": "https://github.com/uikit/uikit/issues"
+        "issues": "https://github.com/dsqdata/rpkit-dev/issues"
     },
     "license": "MIT",
     "extra": {
